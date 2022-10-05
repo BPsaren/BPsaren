@@ -2,11 +2,12 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Codingherel" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F720825%2Fscreenshots%2F3253310%2Fslim-jim-_dribbble_-_800x600_.gif&f=1&nofb=1&ipt=0c42468226ef62216495ae92ebdfa54611fab1903d0f9b9054bab1acde5dfb7a&ipo=images">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpsaren&label=Profile%20views&color=0e75b6&style=flat" alt="bpsaren" /> </p>
+
 🌱 I’m currently learning **Computer Science Engineering**
 
-- 📫 How to reach me **bishnupadasaren78@gmail.com**
+📫 How to reach me **bishnupadasaren78@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
