@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Computer Science Engineering**
 
-📫 How to reach me **bishnupadasaren78@gmail.com**
+📫 How to reach me **marcusparker599@gmail.com**
 
 ⚡ Fun fact **I am funny**
 
